@@ -1,0 +1,11 @@
+---
+title: "Mis Apuntes de Clase"
+listing:
+  contents: clases        # <--- Le dice a Quarto que busque en la carpeta 'clases'
+  type: table             # <--- Formato tabla (puede ser 'grid', 'default' o 'table')
+  sort: "date desc"       # <--- Ordena por fecha (del más nuevo al más viejo)
+  categories: true        # <--- Muestra un menú de filtros a la derecha
+  fields: [date, title, description, reading-time] # <--- Qué columnas mostrar
+---
+
+Aquí encontrarás todos los apuntes de mis materias organizados por fecha.

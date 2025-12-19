@@ -1,0 +1,21 @@
+---
+title: "Mis Proyectos"
+---
+
+## Bienvenido a mi sección de proyectos
+
+Aquí puedes escribir una descripción de lo que haces. Como es un archivo de Quarto, puedes usar:
+
+* Listas
+* **Texto en negrita**
+* Incluso código de R o Python si lo necesitas.
+
+¡Esta es mi nueva página!
+
+Aquí está la fórmula cuadrática:
+
+$$
+x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
+$$
+
+<a href="dinamica.qmd" class="btn btn-primary">Programación Dinámica</a>

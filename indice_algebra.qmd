@@ -1,0 +1,10 @@
+---
+title: "Apuntes de Álgebra"
+listing:
+  contents: clases/algebra   # <--- ¡OJO! Aquí le decimos que mire SOLO esa carpeta
+  type: table
+  fields: [date, title, description]
+---
+
+Aquí tienes todos mis documentos y ejercicios de Álgebra.
+

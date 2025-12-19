@@ -1,0 +1,9 @@
+---
+title: "Clase 1: Programación Dinámica"
+date: 2023-10-25
+description: "Introducción a los problemas de optimización y subestructura óptima."
+categories: [Algoritmos, Programación]
+---
+
+## Mis apuntes
+Aquí empieza el contenido de tu clase...
