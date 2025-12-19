@@ -1,0 +1,19 @@
+[
+  {
+    "listing": "/indice_algebra.html",
+    "items": [
+      "/clases/algebra/matrices.html",
+      "/clases/algebra/vectores.html"
+    ]
+  },
+  {
+    "listing": "/biblioteca.html",
+    "items": [
+      "/clases/grafos.html",
+      "/clases/prog_dinamica.html",
+      "/clases/algebra.html",
+      "/clases/algebra/matrices.html",
+      "/clases/algebra/vectores.html"
+    ]
+  }
+]

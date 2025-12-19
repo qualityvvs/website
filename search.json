@@ -1,0 +1,93 @@
+[
+  {
+    "objectID": "dinamica.html",
+    "href": "dinamica.html",
+    "title": "titulo de dinamica",
+    "section": "",
+    "text": "bla bla bla"
+  },
+  {
+    "objectID": "clases/algebra/vectores.html",
+    "href": "clases/algebra/vectores.html",
+    "title": "Clase 2: Programación Dinámica",
+    "section": "",
+    "text": "Aquí empieza el contenido de tu clase…"
+  },
+  {
+    "objectID": "clases/algebra/vectores.html#mis-apuntes",
+    "href": "clases/algebra/vectores.html#mis-apuntes",
+    "title": "Clase 2: Programación Dinámica",
+    "section": "",
+    "text": "Aquí empieza el contenido de tu clase…"
+  },
+  {
+    "objectID": "clases/algebra.html",
+    "href": "clases/algebra.html",
+    "title": "Clase 1: Programación Dinámica",
+    "section": "",
+    "text": "Aquí empieza el contenido de tu clase…"
+  },
+  {
+    "objectID": "clases/algebra.html#mis-apuntes",
+    "href": "clases/algebra.html#mis-apuntes",
+    "title": "Clase 1: Programación Dinámica",
+    "section": "",
+    "text": "Aquí empieza el contenido de tu clase…"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "pagina",
+    "section": "",
+    "text": "Esta es mi pagina de quarto"
+  },
+  {
+    "objectID": "indice_algebra.html",
+    "href": "indice_algebra.html",
+    "title": "Apuntes de Álgebra",
+    "section": "",
+    "text": "Aquí tienes todos mis documentos y ejercicios de Álgebra.\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\n\nTitle\n\n\n\nDescription\n\n\n\n\n\n\n\n\nOct 25, 2023\n\n\nClase 1: Programación Dinámica\n\n\nIntroducción a los problemas de optimización y subestructura óptima.\n\n\n\n\n\n\nOct 25, 2023\n\n\nClase 2: Programación Dinámica\n\n\nIntroducción a los problemas de optimización y subestructura óptima.\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Pagina about"
+  },
+  {
+    "objectID": "biblioteca.html",
+    "href": "biblioteca.html",
+    "title": "Mis Apuntes de Clase",
+    "section": "",
+    "text": "Aquí encontrarás todos los apuntes de mis materias organizados por fecha.\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\n\nTitle\n\n\n\nDescription\n\n\n\nReading Time\n\n\n\n\n\n\n\n\n \n\n\n \n\n\n\n\n\n \n\n\n\n\n\n\n \n\n\n \n\n\n\n\n\n \n\n\n\n\n\n\nOct 25, 2023\n\n\nClase 1: Programación Dinámica\n\n\nIntroducción a los problemas de optimización y subestructura óptima.\n\n\n1 min\n\n\n\n\n\n\nOct 25, 2023\n\n\nClase 1: Programación Dinámica\n\n\nIntroducción a los problemas de optimización y subestructura óptima.\n\n\n1 min\n\n\n\n\n\n\nOct 25, 2023\n\n\nClase 2: Programación Dinámica\n\n\nIntroducción a los problemas de optimización y subestructura óptima.\n\n\n1 min\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "clases/algebra/matrices.html",
+    "href": "clases/algebra/matrices.html",
+    "title": "Clase 1: Programación Dinámica",
+    "section": "",
+    "text": "Aquí empieza el contenido de tu clase…"
+  },
+  {
+    "objectID": "clases/algebra/matrices.html#mis-apuntes",
+    "href": "clases/algebra/matrices.html#mis-apuntes",
+    "title": "Clase 1: Programación Dinámica",
+    "section": "",
+    "text": "Aquí empieza el contenido de tu clase…"
+  },
+  {
+    "objectID": "proyectos.html",
+    "href": "proyectos.html",
+    "title": "Mis Proyectos",
+    "section": "",
+    "text": "Aquí puedes escribir una descripción de lo que haces. Como es un archivo de Quarto, puedes usar:\n\nListas\nTexto en negrita\nIncluso código de R o Python si lo necesitas.\n\n¡Esta es mi nueva página!\nAquí está la fórmula cuadrática:\n\\[\nx = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}\n\\]\nProgramación Dinámica"
+  },
+  {
+    "objectID": "proyectos.html#bienvenido-a-mi-sección-de-proyectos",
+    "href": "proyectos.html#bienvenido-a-mi-sección-de-proyectos",
+    "title": "Mis Proyectos",
+    "section": "",
+    "text": "Aquí puedes escribir una descripción de lo que haces. Como es un archivo de Quarto, puedes usar:\n\nListas\nTexto en negrita\nIncluso código de R o Python si lo necesitas.\n\n¡Esta es mi nueva página!\nAquí está la fórmula cuadrática:\n\\[\nx = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}\n\\]\nProgramación Dinámica"
+  }
+]
